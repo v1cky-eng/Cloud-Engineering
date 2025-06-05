@@ -1,0 +1,20 @@
+# Infrastructure as Code (IaC) with Terraform on GCP
+
+This project automates infrastructure provisioning on GCP using Terraform. It focuses on reusable modules, environment isolation, and best practices for cloud-native resource management.
+
+## Features
+- Provisioned Compute Engine instances and IAM roles
+- Used variables, outputs, and modules for flexibility
+- Managed infrastructure lifecycle with `terraform plan` and `apply`
+- Version-controlled Terraform code using Git
+
+## Tools & Technologies
+- Terraform
+- Google Cloud Platform
+- Compute Engine
+- IAM
+
+## Skills Demonstrated
+✅ Infrastructure as Code (IaC)  
+✅ Terraform state and modules  
+✅ Reproducible cloud environments
