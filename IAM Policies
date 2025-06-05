@@ -1,0 +1,19 @@
+# Configuring IAM Policies on GCP
+
+This lab focuses on identity and access management in GCP. It walks through applying custom IAM roles, simulating permissions, and verifying least-privilege access using service accounts and audit logs.
+
+## Features
+- Assigned IAM roles to users and service accounts
+- Used `Policy Simulator` to preview effects of role changes
+- Audited policy bindings and logs for misconfigurations
+
+## Tools & Technologies
+- GCP IAM
+- Cloud Console
+- gcloud CLI
+- Policy Troubleshooter
+
+## Skills Demonstrated
+✅ IAM roles & policy design  
+✅ Permission simulation & validation  
+✅ Audit and security analysis
