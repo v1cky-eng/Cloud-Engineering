@@ -1,0 +1,20 @@
+# Provisioning Cloud Storage with GCP
+
+This project demonstrates how to provision and manage storage buckets in Google Cloud Platform using both the Cloud Console and `gcloud` CLI. Focus areas include IAM policy enforcement, object versioning, and lifecycle management.
+
+## Features
+- Created and configured Cloud Storage buckets with region-specific settings
+- Applied fine-grained IAM policies to enforce least privilege
+- Enabled versioning for object change tracking
+- Implemented lifecycle rules to automatically delete or archive objects
+
+## Tools & Technologies
+- Google Cloud Platform (GCP)
+- Cloud Storage
+- IAM
+- gcloud CLI
+
+## Skills Demonstrated
+✅ IAM & permissions  
+✅ Cloud-native storage configuration  
+✅ Policy-based resource management
